@@ -57,9 +57,9 @@ Datos a partir de fuentes públicas (ver [Fuentes](#fuentes-de-datos)).
 .
 ├── README.md
 ├── memoria/
-│   └── dashboard.html                      # dashboard autónomo (1 archivo, sin build)
-├── data/                               # shapefiles — NO incluidos (ver Fuentes)
-└── notebook/                            # se generan gráficos al ejecutar el notebook
+│   └── dashboard.html                      # dashboard autónomo (1 archivo)
+├── data/                                   # shapefiles 
+└── notebook/                               # se generan gráficos al ejecutar el notebook
     ├── paxareiras_ii_valoracion_se.ipynb   
    
 ```
