@@ -23,7 +23,6 @@ Es una combinación poco común que responde directamente a una necesidad regula
 | | |
 |---|---|
 | **Expediente** | IN661A 2011/8 (NT) |
-| **Promotor** | AV Paxareiras, S.L. |
 | **Localización** | Dumbría, A Coruña (Costa da Morte) |
 | **Potencia** | 26,40 MW — 5 aerogeneradores (3×5,0 + 2×5,7 MW, Nordex N163) |
 | **Línea de evacuación** | 6,65 km (LAT 66 kV) |
