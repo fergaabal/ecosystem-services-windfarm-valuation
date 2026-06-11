@@ -118,7 +118,7 @@ Declarar estas limitaciones forma parte del rigor del trabajo, no lo debilita.
 
 ---
 
-## Hoja de ruta
+## Próximos pasos
 
 - [ ] **Pieza 2 — Fragmentación de hábitats** y modelado de las vías de impacto reales.
 - [ ] Sustituir CORINE por Hábitats de Interese Comunitario (Anexo I, Dir. 92/43/CEE) y corregir plantación vs. bosque natural.
