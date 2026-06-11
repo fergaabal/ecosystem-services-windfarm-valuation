@@ -56,14 +56,12 @@ Datos a partir de fuentes públicas (ver [Fuentes](#fuentes-de-datos)).
 ```
 .
 ├── README.md
-├── requirements.txt
-├── paxareiras_ii_valoracion_se.ipynb   # análisis completo (Jupyter)
-├── dashboard/
-│   └── index.html                      # dashboard autónomo (1 archivo, sin build)
+├── memoria/
+│   └── dashboard.html                      # dashboard autónomo (1 archivo, sin build)
 ├── data/                               # shapefiles — NO incluidos (ver Fuentes)
-└── outputs/                            # se generan al ejecutar el notebook
-    ├── paxareiras_ii_valoracion_SE.xlsx
-    └── paxareiras_ii_valoracion_SE.png
+└── notebook/                            # se generan gráficos al ejecutar el notebook
+    ├── paxareiras_ii_valoracion_se.ipynb   
+   
 ```
 
 ---
